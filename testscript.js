@@ -8,7 +8,7 @@
     function testingScript() {
 
         //random tes
-          var test = $(`<div id="">HEY</div>`);
+          let test = $(`<div id="">HEY</div>`);
           $("#content_value").append(test)
 
     }
